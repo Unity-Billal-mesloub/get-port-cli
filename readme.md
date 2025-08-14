@@ -34,4 +34,4 @@ $ get-port --help
 
 ## Related
 
-- [get-port](https://github.com/sindresorhus/get-port) - API for this module
+- [get-port](https://github.com/sindresorhus/get-port) - API for this package
